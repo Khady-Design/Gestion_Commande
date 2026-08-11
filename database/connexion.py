@@ -1,8 +1,3 @@
-"""
-Module de connexion à la base de données.
-Implémente le pattern Singleton : une seule instance de connexion
-est partagée par toute l'application.
-"""
 
 from database.config import TYPE_BD, MYSQL, POSTGRES
 
