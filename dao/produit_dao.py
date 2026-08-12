@@ -1,4 +1,3 @@
-"""DAO pour la gestion des produits (CRUD complet)."""
 
 from dao.base_dao import BaseDAO
 from database.connexion import DatabaseConnection

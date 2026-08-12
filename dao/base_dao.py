@@ -1,8 +1,3 @@
-"""
-Classe abstraite BaseDAO.
-Contient les méthodes génériques (get_all, get_by_id, delete_by_id)
-qui seront héritées par tous les DAO spécifiques (Fournisseur, Produit, Commande).
-"""
 
 from abc import ABC, abstractmethod
 

@@ -1,4 +1,3 @@
-"""Point d'entrée principal de l'application de gestion des commandes fournisseurs."""
 
 from menu.interface import Interface
 

@@ -1,5 +1,3 @@
-"""Interface utilisateur en ligne de commande de l'application."""
-
 import os
 
 from dao.fournisseur_dao import FournisseurDAO

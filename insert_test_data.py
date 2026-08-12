@@ -1,8 +1,3 @@
-"""
-Script d'insertion de données de test.
-Permet de remplir rapidement la base avec des fournisseurs, des produits
-et quelques commandes cohérentes, afin de tester l'application.
-"""
 
 from dao.fournisseur_dao import FournisseurDAO
 from dao.produit_dao import ProduitDAO

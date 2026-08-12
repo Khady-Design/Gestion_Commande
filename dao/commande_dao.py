@@ -1,4 +1,3 @@
-"""DAO pour la gestion des commandes et de leurs lignes."""
 
 from dao.base_dao import BaseDAO
 from dao.produit_dao import ProduitDAO

@@ -1,8 +1,3 @@
-"""
-Script de création des tables de la base de données.
-À exécuter une seule fois (ou après suppression de la base) pour
-initialiser la structure : fournisseur, produit, commande, ligne_commande.
-"""
 
 from database.connexion import DatabaseConnection
 
