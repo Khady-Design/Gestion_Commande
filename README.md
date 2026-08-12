@@ -14,6 +14,10 @@ Elle permet de gérer les produits, les fournisseurs et les commandes
 - Insertion de données de test
 
 
+## Auteur
+
+Projet réalisé dans le cadre de la formation en informatique de gestion.
+
 # Gestion des Commandes Fournisseurs
 
 Application console en Python (POO) avec base de données MySQL, réalisée dans
