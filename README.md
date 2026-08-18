@@ -5,6 +5,15 @@ Elle permet de gérer les produits, les fournisseurs et les commandes
 à travers une interface simple.
 
 
+## Fonctionnalités
+
+- Gestion des produits
+- Gestion des fournisseurs
+- Gestion des commandes
+- Création des tables de la base de données
+- Insertion de données de test
+
+
 # Gestion des Commandes Fournisseurs
 
 Application console en Python (POO) avec base de données MySQL, réalisée dans
