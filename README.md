@@ -1,3 +1,10 @@
+## Présentation du projet
+
+Ce projet est une application Python de gestion des commandes.
+Elle permet de gérer les produits, les fournisseurs et les commandes
+à travers une interface simple.
+
+
 # Gestion des Commandes Fournisseurs
 
 Application console en Python (POO) avec base de données MySQL, réalisée dans
